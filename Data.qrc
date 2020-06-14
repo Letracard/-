@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Data/AE.txt</file>
+        <file>Data/Br.txt</file>
+        <file>Data/Cl.txt</file>
+        <file>Data/CN.txt</file>
+        <file>Data/EBT.txt</file>
+        <file>Data/eda.txt</file>
+        <file>Data/F.txt</file>
+        <file>Data/gly.txt</file>
+        <file>Data/I.txt</file>
+        <file>Data/KMY.txt</file>
+        <file>Data/lact.txt</file>
+        <file>Data/MRX.txt</file>
+        <file>Data/NH3.txt</file>
+        <file>Data/py.txt</file>
+        <file>Data/S2O3.txt</file>
+        <file>Data/SCN.txt</file>
+        <file>Data/OH.txt</file>
+        <file>Data/phen.txt</file>
+        <file>Data/XO.txt</file>
+        <file>Data/EApotential.txt</file>
+        <file>Data/EBpotential.txt</file>
+        <file>Data/indicator.txt</file>
+    </qresource>
+</RCC>
